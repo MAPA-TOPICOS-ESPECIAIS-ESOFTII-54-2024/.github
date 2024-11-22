@@ -1,3 +1,1 @@
 # MAPA.github
-
-A etapa dois do tutorial "Olá, Mundo" do GitHub Docs ensina como criar uma ramificação (branch). A ramificação permite trabalhar em diferentes versões de um repositório ao mesmo tempo. Por padrão, o repositório tem uma ramificação principal chamada main. Você pode criar novas ramificações a partir do main para adicionar funcionalidades sem alterar o código principal. Para criar uma ramificação, vá até a guia "Código" do repositório, clique no menu suspenso que diz main, digite o nome da nova ramificação e clique em "Criar branch". Agora você tem duas ramificações: main e a nova que você criou. As alterações feitas na nova ramificação não afetarão o main até que você faça o merge.
